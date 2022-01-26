@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/dgsmrn/Node#readme",
   "dependencies": {
-    "cfonts": "^2.10.0",
-    "moment": "^2.29.1"
+    "cfonts": "^2.10.0"
   }
 }
